@@ -1,0 +1,4 @@
+ucimlrepo
+scikit-learn
+matplotlib
+seaborn
